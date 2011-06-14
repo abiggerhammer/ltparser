@@ -1,0 +1,27 @@
+{
+  "name": "ltparser",
+  "description": "Language-theoretic parsers for various file formats",
+  "version": "0.1",
+  "keywords": ["jpg", "jpeg", "jfif", "exif"],
+  "maintainers": [
+    {
+      "name": "Meredith L. Patterson",
+      "email": "mlp@thesmartpolitenerd.com",
+      "web": "http://www.thesmartpolitenerd.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MPL",
+      "url": "http://www.mozilla.org/MPL/MPL-1.1.html"
+    }
+  ],
+  "dependencies": {
+    "reparse": "0.1.1"
+  },
+  "directories": {
+    "lib": "./lib",
+    "doc": "./doc",
+    "test": "./test"
+  }
+}
